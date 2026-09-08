@@ -4,7 +4,7 @@ AIに開発を依頼しているものの、差分やlogだけでは次に進ん
 
 ## 使い方
 
-1. [無料Sampleをダウンロード]({{FREE_SAMPLE_URL}})する。
+1. [無料Sampleをダウンロード](https://github.com/tomatomint/ai-coding-acceptance-sample/releases/download/v0.1.0/acceptance-gate-v0.md)する。
 2. 引用部分の対象変更・確認段階・許可操作を埋め、開発中のAIへ渡す。
 3. 報告を読み、意図や影響についての質問へ答える。分からなければ聞き返す。
 4. 技術的な証拠不足はAI側の追加確認へ戻す。仕様への同意は本番反映許可ではありません。
@@ -15,7 +15,7 @@ AIが対象repoを読める環境で使います。codeの正しさの保証を�
 
 無料版は短い確認指示で、理由付き報告を一度試せます。βは詳細な証拠の扱いと、受け入れ・release後の記録書式をまとめています。ファイル数は増やさず、taskごとの反復利用を想定しています。
 
-β: {{BETA_PRODUCT_URL}}?utm_source=github&utm_medium=sample&utm_campaign=smoke_v0
+β: https://ai-dev-check.booth.pm/items/8818116?utm_source=github&utm_medium=sample&utm_campaign=smoke_v0
 
 ## 利用確認
 
